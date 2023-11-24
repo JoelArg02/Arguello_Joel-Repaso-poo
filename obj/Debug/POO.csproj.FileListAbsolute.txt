@@ -1,0 +1,14 @@
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\bin\Debug\POO.exe.config
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\bin\Debug\POO.exe
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\bin\Debug\POO.pdb
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\obj\Debug\POO.exe
+D:\5. Quinto semestre\1. Desarrollo web avanzado\Primer parcial\2. Tarea\4. Aplicación de programación orientada a objetos\POO\obj\Debug\POO.pdb
+C:\Users\Joel\Downloads\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Joel\Downloads\POO\POO\bin\Debug\POO.exe
+C:\Users\Joel\Downloads\POO\POO\bin\Debug\POO.pdb
+C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.exe
+C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.pdb
