@@ -8,7 +8,7 @@ namespace POO
     {
         private static void Main()
         {
-            // Set culture to use dot as decimal separator
+            // Cambio el tipo de moneda
             CultureInfo culture = new CultureInfo("en-US");
             CultureInfo.DefaultThreadCurrentCulture = culture;
             CultureInfo.DefaultThreadCurrentUICulture = culture;
@@ -19,8 +19,9 @@ namespace POO
 
             do
             {
-                Console.Clear(); // Clear the console screen
+                Console.Clear();
 
+                // Inicio un menú para tenerlo más organizado
                 Console.WriteLine("Seleccione una opción:");
                 Console.WriteLine("1. Ingresar datos de Empleado");
                 Console.WriteLine("2. Ingresar datos de Gerente");
@@ -62,9 +63,10 @@ namespace POO
             } while (!exit);
         }
 
+        // Método para ingresar datos del Empleado
         private static Empleado IngresarDatosEmpleado()
         {
-            Console.Clear(); // Clear the console screen
+            Console.Clear();
 
             Console.WriteLine("Ingrese el nombre del Empleado:");
             string nombreEmpleado = Console.ReadLine();
@@ -79,9 +81,10 @@ namespace POO
             return new Empleado(nombreEmpleado, salarioEmpleado);
         }
 
+        // Método para ingresar datos del Gerente
         private static Gerente IngresarDatosGerente()
         {
-            Console.Clear(); // Clear the console screen
+            Console.Clear();
 
             Console.WriteLine("\nIngrese el nombre del Gerente:");
             string nombreGerente = Console.ReadLine();
@@ -99,9 +102,10 @@ namespace POO
             return new Gerente(nombreGerente, salarioGerente, departamentoGerente);
         }
 
+        // Método para mostrar información del Empleado
         private static void MostrarInformacionEmpleado(Empleado empleado)
         {
-            Console.Clear(); // Clear the console screen
+            Console.Clear(); // Limpiar la pantalla de la consola
 
             if (empleado != null)
             {
@@ -115,9 +119,10 @@ namespace POO
             }
         }
 
+        // Método para mostrar información del Gerente
         private static void MostrarInformacionGerente(Gerente gerente)
         {
-            Console.Clear(); // Clear the console screen
+            Console.Clear(); // Limpiar la pantalla de la consola
 
             if (gerente != null)
             {
@@ -131,6 +136,7 @@ namespace POO
             }
         }
 
+        // Método para mostrar información a través de la interfaz
         private static void MostrarInformacion(IMostrarInformacion entidad)
         {
             entidad.MostrarInformacionGeneral();

@@ -12,3 +12,10 @@ C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
 C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
 C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.exe
 C:\Users\Joel\Downloads\POO\POO\obj\Debug\POO.pdb
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\bin\Debug\POO.exe.config
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\bin\Debug\POO.exe
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\bin\Debug\POO.pdb
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\obj\Debug\POO.exe
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Empleados\Arguello_Joel_Repaso_POO\Arguello_Joel-Repaso-poo\obj\Debug\POO.pdb
